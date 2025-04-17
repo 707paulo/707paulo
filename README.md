@@ -5,7 +5,7 @@
 Me chamo Paulo Lopes Miranda, tenho 19 anos e sou natural de Brasília. Atualmente, estou estudando programação na área Full-Stack, gosto da área da tecnologia e estou tentando progredir cada vez mais.
 
 <p   <a href = "mailto:paulo122005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/paulo-lopes-start" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="http//www.linkedin.com/in/paulo-lopes-start" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
         <a href="https://github.com/707paulo?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
