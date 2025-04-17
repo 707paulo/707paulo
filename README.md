@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Paulo LOpes
+# 👩🏻‍💻 Paulo Lopes
 
 **`Estudando Programação`**
 
