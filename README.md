@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Paulo Lopes
+# 👩🏻‍💻 Paulo Miranda
 
 **`Estudando Programação`**
 
