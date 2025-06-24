@@ -2,14 +2,14 @@
 
 **`Estudando Programação`**
 
-🚀 Desenvolvedor em Transição | Focado em Backend
+🚀 Desenvolvedor em Formação | Focado em Backend
 Olá! Sou Paulo, 19 anos, apaixonado por tecnologia e em transição para a área de desenvolvimento de software. Atualmente me dedico aos estudos de programação com foco em desenvolvimento Backend.
 
 💻 Habilidades Técnicas:
-Domínio sólido em HTML, CSS e JavaScript
-Estudando Python e Ruby para desenvolvimento backend
-Experiência com Git/GitHub e lógica de programação
-Conhecimento avançado em pacote Office (Excel, Word, PowerPoint)
+- Domínio sólido em HTML, CSS e JavaScript
+- Estudando Python e Ruby para desenvolvimento backend
+- Experiência com Git/GitHub e lógica de programação
+- Conhecimento avançado em pacote Office (Excel, Word, PowerPoint)
 
 🎯 Experiência Profissional:
 Minha jornada com tecnologia começou cedo, trabalhando com Excel em negócios familiares e posteriormente no Exército, onde aprofundei conhecimentos em ferramentas do pacote Office e gestão de documentos. Essa base sólida em tecnologia me direcionou naturalmente para a programação.
